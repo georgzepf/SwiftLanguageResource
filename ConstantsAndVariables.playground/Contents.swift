@@ -12,7 +12,7 @@ import Foundation
  Structures are value types.
  Classes are reference types.
  
- If assigned to a 'let' constant:
+ If assigned to a "let" constant:
  - Value types are internally immutable and can't be reassigned
  - Reference types are internally mutable but can't be reassigned
  
@@ -44,11 +44,7 @@ referenceToOldArray.add("Baz")
 oldArray
 referenceToOldArray
 
-/*
- 
- WATCH OUT: A function can mutate reference types being passed as parameters even if it does not look like it!
- 
- */
+// WATCH OUT: A function can mutate reference types being passed as parameters even if it does not look like it!
 let oldArray2 = NSMutableArray(
     array: [
         myName,

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Optionals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:NumericLiterals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Types.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ConstantsAndVariables.playground">
+   </FileRef>
+</Workspace>
