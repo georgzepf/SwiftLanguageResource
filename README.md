@@ -1,5 +1,7 @@
 # Swift Language Resource
 
+WIP
+
 **Some background on Swift as a language:**
 
 The tone of the time was that the original iPhone was successful because of Objective-C and doing a new language was not obvious. Being an extension of C, Objective-C is not memory safe and difficult to learn as a language with many sharp edges. Memory safety was one of the big problems, but dealing with that would mean changing the reliance on pointers. Simply put, it wouldn't be Objective-C anymore. Chris Lattner started work on Swift in July of 2010. A few other folks started contributing in earnest late in 2011, and it became a major focus for the Apple Developer Tools group in July 2013.
