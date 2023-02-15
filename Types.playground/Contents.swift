@@ -95,7 +95,7 @@ let integerPi = Int(pi)
  Type Aliases
 
  */
-// Here, e.g. a type alias is used for data of a specific size from an external source.
+// Here, for example, a type alias is used for data of a specific size from an external source.
 typealias AudioSample = UInt16
 let maxAmplitudeFound = AudioSample.min
 

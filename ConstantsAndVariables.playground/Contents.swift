@@ -7,7 +7,7 @@ import Foundation
  
  Two different mutability concepts:
  - Mutating the variable itself (reassignment)
- - Mutating the variable internally (e.g. using .append on an Array)
+ - Mutating the variable internally (for example, using .append on an Array)
  
  Structures are value types.
  Classes are reference types.

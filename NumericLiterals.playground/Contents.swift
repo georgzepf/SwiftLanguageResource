@@ -15,10 +15,10 @@ import Foundation
  and must always have a number (or hexadecimal number) on both sides of the decimal point.
  
  Decimal floats can have an optional exponent, indicated by an uppercase or lowercase e.
- With an exponent of "exp", the base number is multiplied by 10^exp e.g. 1.25e2 means 1.25 x 10^2, or 125.0.
+ With an exponent of "exp", the base number is multiplied by 10^exp. For example, 1.25e2 means 1.25 x 10^2, or 125.0.
  
  Hexadecimal floats must have an exponent, indicated by an uppercase or lowercase p.
- With an exponent of "exp", the base number is multiplied by 2^exp e.g. 0xFp2 means 15 x 2^2, or 60.0.
+ With an exponent of "exp", the base number is multiplied by 2^exp. For example, 0xFp2 means 15 x 2^2, or 60.0.
  
  
  Both integers and floating-point numbers can be padded with extra zeros and can contain underscores to help with readability
